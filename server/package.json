@@ -1,0 +1,26 @@
+{
+  "name": "eonlab",
+  "version": "1.0.0",
+  "description": "eonlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amilagm/eonlab.git"
+  },
+  "keywords": [
+    "eonlab",
+    "lims"
+  ],
+  "author": "Amila Gamlath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilagm/eonlab/issues"
+  },
+  "homepage": "https://github.com/amilagm/eonlab",
+  "dependencies": {
+    "hapi": "^8.1.0"
+  }
+}
