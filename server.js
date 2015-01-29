@@ -2,7 +2,7 @@
  * Created by agamlath on 1/27/2015.
  */
 var Hapi = require('hapi');
-var routes = require('./routes');
+var routes = require('./app/routes');
 // Create a server with a host and port
 var server = new Hapi.Server();
 server.connection({
